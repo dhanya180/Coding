@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "algorithm": "cpp",
+        "iostream": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "unordered_map": "cpp",
+        "bitset": "cpp",
+        "format": "cpp",
+        "climits": "cpp",
+        "tuple": "cpp",
+        "numeric": "cpp"
+    }
+}
